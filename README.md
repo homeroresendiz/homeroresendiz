@@ -1,18 +1,16 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-
 <div align="center">
   <h3><strong>Homero Resendiz</strong> - <em>Software Engineering Student</em></h3>
 </div>
 
 <div align="center">
-  <i class="devicon-html5-plain"></i>
-  <i class="devicon-css3-plain"></i>
-  <i class="devicon-php-plain"></i>
-  <i class="devicon-csharp-plain"></i>
-  <i class="devicon-mysql-plain"></i>
-  <i class="devicon-microsoftsqlserver-plain"></i>
-  <i class="devicon-windows8-original"></i>
-  <i class="devicon-linux-plain"></i>
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/mysql/mysql-original.svg">
+  <img align="center" alt="MSSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Windows on Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
 <br />
