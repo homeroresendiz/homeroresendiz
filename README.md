@@ -2,7 +2,7 @@
   <img align="center" width="150px" height="150px" src="https://avatars.githubusercontent.com/u/66820778?v=4" />
   <h3>
     <strong>Homero Resendiz</strong>
-  </h3
+  </h3>
   <h3>
     <em>Software Engineering Student</em>
   </h3>
