@@ -1,4 +1,5 @@
 <div align="center">
+  <img align="center" width="100px" height="100px" src="https://avatars.githubusercontent.com/u/66820778?v=4" />
   <h3>
     <strong>Homero Resendiz</strong>
   </h3
