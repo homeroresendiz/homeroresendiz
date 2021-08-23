@@ -1,5 +1,10 @@
 <div align="center">
-  <h3><strong>Homero Resendiz</strong> - <em>Software Engineering Student</em></h3>
+  <h3>
+    <strong>Homero Resendiz</strong>
+  </h3
+  <h3>
+    <em>Software Engineering Student</em>
+  </h3>
 </div>
 
 <div align="center">
