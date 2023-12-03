@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 &nbsp;<div align="left">
-  I´m Homero, Software Developer from Mexico. <img src="https://media.giphy.com/media/5plgREel3XcJPvO0Ok/giphy-downsized-large.gif" width="20px"></a>
+  I´m Homero, Software Developer from Mexico.
 </div>
 
 ## 🚀💻 Technologies & Tools
