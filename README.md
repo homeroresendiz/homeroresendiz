@@ -23,6 +23,6 @@
 
 ## 🎶🎵 Activity
 
-&nbsp;<div align="left">
+&nbsp;<div align="center">
   [![Spotify](https://novatorem-xi-wine.vercel.app/api/spotify?background_color=ffffff&border_color=0d1117)](https://open.spotify.com/user/31nztyrelmk6wre3po7sf4p2pp2a?si=1941b53b5e714e44)
 </div>
