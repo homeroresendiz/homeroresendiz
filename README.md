@@ -1,12 +1,12 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-&nbsp;<div align="left">
+&nbsp;<div align="center">
   I´m Homero, Software Developer from Mexico.
 </div>
 
 ## 🚀💻 Technologies & Tools
 
-  &nbsp;<div align="left">
+  &nbsp;<div align="center">
   ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
