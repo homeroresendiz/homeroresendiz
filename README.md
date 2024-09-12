@@ -1,7 +1,7 @@
 ## 👋 Acerca de mí
 <p align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExandqMGVkMXVoczNnMTU3emR0NHZ4dHB3ZW1wMHU4YWNlMmlua2tkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hjZ3T2Eso1wJ8QWoCl/giphy.gif" width="40" />
-	<img src="https://img.shields.io/badge/Edad-24-blue" />
+	<img src="https://img.shields.io/badge/Edad-25-blue" />
   	<img src="https://img.shields.io/badge/Interés-Backend-blue" />
   	<img src="https://img.shields.io/badge/Ubicación-Reynosa,%20Mexico-blue" />
   	<img src="https://img.shields.io/badge/Idiomas-Español%20e%20Inglés-blue" />
