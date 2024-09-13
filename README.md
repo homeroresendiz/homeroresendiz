@@ -32,5 +32,5 @@
 ## 🎶 Actividad
 <div align="center">
 
-[![Spotify](https://homeroresendizapis.vercel.app/api/spotify/now_playing_svg)](https://open.spotify.com/user/31nztyrelmk6wre3po7sf4p2pp2a?si=1941b53b5e714e44)
+[![Spotify](https://homeroresendiz.com/api/spotify/now_playing_svg)](https://open.spotify.com/user/31nztyrelmk6wre3po7sf4p2pp2a?si=1941b53b5e714e44)
 </div>
