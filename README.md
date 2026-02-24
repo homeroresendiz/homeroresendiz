@@ -28,9 +28,3 @@
    [![Email](https://img.shields.io/badge/Correo-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:homero@homeroresendiz.dev)
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/homeroresendiz/)
 </div>
-
-## 🎶 Actividad
-<div align="center">
-
-[![Spotify](https://homeroresendiz.com/api/spotify/now_playing_svg)](https://open.spotify.com/user/31nztyrelmk6wre3po7sf4p2pp2a?si=1941b53b5e714e44)
-</div>
